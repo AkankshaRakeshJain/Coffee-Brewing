@@ -15,9 +15,14 @@ If no coffee in the machine, power status is turned off.
 Operator class:
 Operator can view the availability level of the raw materials.
 Operator can perform following operations:-
+
     1. add coffee
+    
     2. modify price
+    
     3. modify quantity (add/remove)
+    
     4. turn the power on, so that the user can buy coffee
+    
     5. power off
 
